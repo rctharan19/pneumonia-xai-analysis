@@ -79,19 +79,19 @@ Please follow the dataset provider's terms and conditions.
 
 The classifier achieved a test ROC-AUC of 0.8786.
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ### Confusion Matrix
 
 Test-set classification results for the ResNet-18 pneumonia classifier.
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Explainability Comparison
 
 Qualitative comparison of Grad-CAM, LIME, and SHAP explanations against ground-truth bounding boxes.
 
-![Grad-CAM, LIME and SHAP comparison](images/xai_qualitative_grid.png)
+![Grad-CAM, LIME and SHAP comparison](xai_qualitative_grid.png)
 
 ---
 
