@@ -6,6 +6,15 @@ A comparative study of **Grad-CAM, LIME, and SHAP** for explaining deep-learning
 
 Deep-learning models can classify medical images, but their predictions are often difficult to interpret. This project evaluates three Explainable AI (XAI) techniques to investigate how they highlight image regions associated with pneumonia classification.
 
+## Quick Access
+
+- [Open the Jupyter Notebook](Pneumonia_XAI_Final_Run.ipynb)
+- [View the ROC Curve](roc_curve.png)
+- [View the Confusion Matrix](confusion_matrix.png)
+- [View the XAI Comparison](xai_qualitative_grid.png)
+- [Install Dependencies](requirements.txt)
+
+
 ## Objectives
 
 - Develop a chest X-ray pneumonia classification pipeline using ResNet-18.
